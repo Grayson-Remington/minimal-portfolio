@@ -1,20 +1,20 @@
 export default [
   {
-    title: 'Terminal Website',
-    imgUrl: '',
+    title: 'Portfolio Website',
+    imgUrl: './img/portfolio-website.jpg',
     stack: ['HTML', 'CSS', 'Javascript'],
-    link: 'https://fkcodes.com',
+    link: 'https://grayremington.com',
   },
   {
-    title: 'Developer Portfolio',
-    imgUrl: '',
-    stack: ['HTML', 'CSS', 'Javascript'],
-    link: 'https://fkcodes.com',
+    title: 'Weather App',
+    imgUrl: './img/weather-app.jpg',
+    stack: ['NextJS', 'Tailwind', 'Javascript'],
+    link: 'https://weather-app-hazel-kappa.vercel.app/',
   },
   {
-    title: 'Terminal Website',
-    imgUrl: '',
-    stack: ['HTML', 'CSS', 'Javascript'],
-    link: 'https://fkcodes.com',
+    title: 'Dead Drift Flycasters',
+    imgUrl: './img/dead-drift-flycasters.jpg',
+    stack: ['React', 'Tailwind', 'Javascript'],
+    link: 'https://grayson-remington.github.io/dead-drift-flycasters/',
   }
 ]
