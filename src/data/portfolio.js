@@ -1,20 +1,21 @@
 export default [
   {
-    title: 'Terminal Website',
-    imgUrl: '',
+    title: 'Portfolio Website',
+    imgUrl: 'src/img/weather-app.jpg',
+    stack: ['HTML', 'CSS', 'Javascript'],
+    link: 'https://grayremington.com',
+  },
+  {
+    title: 'Weather App',
+    imgUrl: 'src/img/weather-app.jpg',
     stack: ['HTML', 'CSS', 'Javascript'],
     link: 'https://fkcodes.com',
   },
   {
-    title: 'Developer Portfolio',
-    imgUrl: '',
-    stack: ['HTML', 'CSS', 'Javascript'],
-    link: 'https://fkcodes.com',
-  },
-  {
-    title: 'Terminal Website',
-    imgUrl: '',
+    title: 'Dead-Drift Flycasters',
+    imgUrl: 'src/img/weather-app.jpg',
     stack: ['HTML', 'CSS', 'Javascript'],
     link: 'https://fkcodes.com',
   }
+  
 ]
