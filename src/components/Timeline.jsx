@@ -18,5 +18,3 @@ function Timeline() {
     </div>
   )
 }
-
-export default Timeline;

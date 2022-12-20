@@ -1,7 +1,7 @@
 import React from 'react';
 import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
-import Timeline from './components/Timeline';
+import Experience from './components/Experience';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
@@ -12,9 +12,7 @@ function App() {
     <div className="App">
       <Intro />
       <Portfolio />
-      <Timeline />
-      <Contact />
-      <Footer />
+      <Experience />
     </div>
   )
 }
