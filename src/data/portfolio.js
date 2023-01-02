@@ -17,4 +17,5 @@ export default [
     stack: ['React', 'Tailwind', 'Javascript'],
     link: 'https://grayson-remington.github.io/dead-drift-flycasters/',
   }
+  
 ]
