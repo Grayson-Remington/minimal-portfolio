@@ -7,7 +7,7 @@ function PortfolioItem({title, imgUrl, stack, link}) {
     target="_blank"
     rel="noopener noreferrer"
      className='border-2 border-stone-900 rounded-md overflow-hidden'>
-    <img src={imgUrl} 
+    <img src={imgUrl}
     alt="portfolio" 
     className='w-full h-36 md:h-48 object-cover cursor-pointer'
     />

@@ -2,7 +2,7 @@
   "name": "minimal-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Grayson-Remington.github.io/minimal-portfolio",
+  "homepage": "https://grayson-remington.github.io/minimal-portfolio/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",

@@ -1,10 +1,11 @@
 import React from 'react';
 
+
 function Intro() {
   return (
     <div className='flex items-center justify-center flex-col text-center pt-6 pb-6'>
       <div className='md:flex flex-row md:h-[300px]'>
-      <img src="./img/portfolio-06.jpg" alt="" className='w-[300px] h-auto rounded-full'/>
+      <img src="assets/profile_pic.jpg" alt="" className='w-[300px] h-auto rounded-full'/>
       <div className='flex flex-col h-full items-center justify-center ml-6'>
       <h1 className='text-4xl md:text-7xl mb-1 md:mb-3 font-bold'>Gray</h1>
       <p className='text-base md:text-xl mb-3 font-medium'>Software Engineer & Web Developer</p>
