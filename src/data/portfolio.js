@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Portfolio Website',
-    imgUrl: './img/portfolio-website.jpg',
+    imgUrl: './img/html_portfolio.jpg',
     stack: ['HTML', 'CSS', 'Javascript'],
     link: 'https://grayremington.com',
   },
